@@ -1,0 +1,48 @@
+Project 4. Semester (Thomas, Jonathan & Rasmus)
+
+
+VOLLEYBALL INFO APP:
+
+
+1.1 BACKGROUND
+
+Our vision is to make an app that combines information from, to and inbetween Volleyball arrangements, both from the participants, spectators & organisators side.
+
+Furthermore we want to make it easy to view you upcoming events in a functional and smart design.
+
+
+Today the way Volleyball and many other sports organize they organize their matches and tournaments, are very outdated and bony.
+
+
+Keywords: 
+Needed, simplicity, stability, viewability & design
+
+
+1.2 BUSINESS OPPORTUNITY
+
+
+We think our App will help the people who currently uses spreadsheet and papir to organize, to become much more effecient and give a far better overview, which will directly lead to far less crucial mistakes.
+
+
+There is no currently working system that allows every team and coordinator of the Volleyball association to communicate and establish tournaments. Therefore it should be relatively easy and straight-forward to implement our app, if we will succeed to create a proper working system that has the sufficient functionality.
+
+
+1.3 BUSINESS OBJECTIVES AND SUCCESS CRITERIA
+
+1. Usage-objective:
+
+If our app is used daily by a big percentage of the entirety of the volleyball association, our goal has been achieved
+
+2. (Sustain & maintain)-objective:
+
+Is our stabile? is it fast? Is it effective? and overall does it work as intended-
+If we can say yes to all this - this objective is partly a story of success. (partly-success as of, stability will allways be at risk, by alot of different factors, so this is an ongoing process)
+
+3. (Money & Value)-objective
+
+We will feel that our app is succesfull, when it generates a certain amount of money annually, from our Shop inside the App.
+
+
+
+
+
