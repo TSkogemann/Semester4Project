@@ -1,0 +1,14 @@
+Vision
+1.1 - Background
+Vi vil lave en applikation, som bruges af (volley)spillere på hold der deltager i turneringer.  Det skal være muligt at se turneringsplaner igennem appen og opdatere informationerne efterhåndenden som turneringen skrider frem.  På den måde formidler den kontakt mellem turneringsledere og deltagere. 
+
+Det skal som turneringsleder være muligt at:
+-afholde turneringer, dvs. lave indeledende grupper og slutspil.
+- sende beskeder til turneringsdeltagere
+Det skal som holdeltager være muligt at:
+- modtage beskeder og svare på beskeder
+- se turneringsinformation
+-indgive resultater
+1.2 - Business opportunity
+Forbundet kunne betale.
+shop
