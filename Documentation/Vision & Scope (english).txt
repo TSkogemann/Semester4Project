@@ -6,7 +6,7 @@ VOLLEYBALL INFO APP:
 
 1.1 BACKGROUND
 
-Our vision is to make an app that combines information from, to and inbetween Volleyball arrangements, both from the participants, spectators & organisators side.
+Our vision is to make an app that combines information from, to angd inbetween Volleyball arrangements, both from the participants, spectators & organisators side.
 
 Furthermore we want to make it easy to view you upcoming events in a functional and smart design.
 
