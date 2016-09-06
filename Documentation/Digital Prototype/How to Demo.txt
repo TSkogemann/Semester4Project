@@ -1,0 +1,29 @@
+#TASKS
+
+1. Login  
+
+2. Find the location of your next match
+
+3. View the participants in next match
+
+4. View the scoreboard, and find out who is on third.
+
+
+
+#Test1
+Comments: Gruppe2
+- Nemt at logge ind.
+- Info om tekniske ord.
+- Frequently Asked Questions/Info Tab.
+- Evt Sortering efter type af kamp. (All, Matches, Refree)
+- 
++++++++++++++++++++++++++++++++++++++++++++++++++
+#Test2
+Comments: Gruppe5
+- Scroll funktion
+- Tydelighed af hvem der kan hvad i appen (players kontra followers)
+- Indstillinger
+- Implementation af Notifikations system og tanker herom
+
+
+
