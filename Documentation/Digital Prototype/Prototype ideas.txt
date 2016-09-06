@@ -1,0 +1,33 @@
+THOUGHTS:
+	
+	Our prototype is basicly an overview of our thoughts to the final product.
+	The design is not final, but it is a design that we can use as guidelines for our app.
+	The section which shows (not implemented) is a nice to have feature for later implementation.
+
+	
+	#Slide1 - Login: 		It shows that you have a username and password, and this account contains
+			 		information about the user.
+
+	#Slide2 - Matches: 		This slide shows upcoming tournaments with the required information, 
+					and you have a button (more info) which re-directs to another section
+
+	#Slide3 - Tournament		It shows the ongoing tournaments, with the function that allows to click
+					on a desired tournament to view.
+	
+	#Slide4 - Weekend Stævne	It gives a overview of current scoreboard, played matches and upcoming matches.
+
+	#Slide5 - Follow		It is a feature that allows spectators, family members, friends & other who would
+					be interested in following a team or specific player.
+
+	#Slide6 - More Info		Shows date, location and provides buttons to route into specific details about the match
+					(Participants, Tournament & Stream)
+
+	#Slide7 - Participants		It shows the players/participants in the specified match.
+
+	
+	#Slide 8 - Stream		It contains a link to a live video-stream of the specified match
+
+
+	#Slide 9 - Overview		It is a picture of all the current events and pages that our app contains 
+
+		
